@@ -1,0 +1,135 @@
+.bg{
+    height: 200px;
+    width: 1264px;
+    position: relative;
+}
+.logo{
+    margin-left: -700px;
+    margin-top: 40px;
+}
+.top{
+    justify-content: center;
+}
+.sub{
+    font-size: 13px;
+    color: gray;
+    margin-left: 460px;
+}
+.sube{
+    font-size: 13px;
+    color: gray;
+    margin-left: 480px;
+
+}
+.his{
+    margin-left: 400px;
+}
+.ios{
+    background-color: green;
+    border-radius: 20px;
+    width: 250px;
+    height: 40px;
+    border: none;
+}
+.mac{
+    border-radius: 20px;
+    border: none;
+    width: 250px;
+    height: 40px;
+ background-color: blue;
+}
+.comp{
+    display: flex;
+}
+.tools{
+    margin-left: 450px;
+}
+.com{
+    flex: 3;
+}
+.comptext{
+    flex: 2;
+    margin-left: 100px;
+}
+.btn{
+    margin-left: 390px;
+}
+.htext{
+    margin-left: 490px;
+}
+.txt{
+    margin-left: 400px;
+}
+.access{
+    margin-left: 450px;
+}
+.acctext{
+    margin-left: 450px;
+}
+.device{
+    margin-left: 200px;
+}
+.charge{
+    margin-left: 450px;
+}
+.tool{
+    display: flex;
+}
+.black{
+    flex: 1;
+}
+.snip{
+    flex: 1;
+}
+.sneak{
+    flex: 1;
+}
+.social{
+    display: flex;
+}
+.gg{
+    flex: 1;
+}
+.hp{
+    flex: 1;
+}
+.vec{
+    flex: 1;
+}
+.mic{
+    flex: 1;
+}
+.ibm{
+    flex: 1;
+}
+.s{
+    margin-left: 450px;
+}
+.sue{
+    margin-left: 400px;
+}
+.su{ 
+    margin-left: 490px;
+}
+.last{
+    background-color: rgb(212, 211, 211);
+    display: flex;
+}
+.un{
+    flex: 2;
+}
+.de{
+    flex: 2;
+}
+.tr{
+    flex: 2;
+}
+.log{
+    flex: 1;
+}
+.pic{
+    flex: 1;
+}
+.or{
+    margin-left: 200px;
+}
